@@ -1,0 +1,8 @@
+# PlatformIO
+.pio/
+.vscode/
+.DS_Store
+
+# 构建产物（通过 GitHub Releases 分发）
+firmware.bin
+firmware-merged.bin
